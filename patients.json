@@ -1,0 +1,16 @@
+{
+    "2": {
+        "name": "salma",
+        "age": 18,
+        "disease": "common cold",
+        "doctor": "salmeen",
+        "visits": 2
+    },
+    "4": {
+        "name": "salma",
+        "age": 18,
+        "disease": "common cold",
+        "doctor": "salmeen",
+        "visits": 1
+    }
+}
